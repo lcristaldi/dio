@@ -1,0 +1,52 @@
+<html>
+    <head>
+<h1>Projeto de entrega DIO</h1>
+<hr />
+<head>
+
+<body>
+    <h2 id="inicio">Resumo das aulas e entrega de projeto</h2>
+    <ul>
+<li><a href="#a">Resumo de como utilizar a TAG a</a></li>
+<li><a href="#h1h2">Resumo de como utilizar a TAG h1 e H2</a></li>
+<li><a href="#href">Resumo de como utilizar a TAG href</a></li>
+    </ul>
+
+    <h2>Texto de como surgiu o HTML:</h2>
+    
+<P style="text-align: justify;">HTML é uma sigla para HyperText Markup Language, ou linguagem de marcação hipertexto. Foi criada por Tim Berners-Lee, quando trabalhava no CERN (Centro Europeu de Pesquisa Nuclear), na Suíça. Lee também criou na mesma época o protocolo HTTP e a World Wide Web, enquanto procurava uma solução para compartilhamento de arquivos no centro.</P>
+<P style="text-align: justify;">O HTTP é o protocolo de rede que permite a transferência de arquivos, ao passo que a World Wide Web (WWW) é o sistema que cataloga e permite compartilhar documentos por meio do HTTP. </P>
+<P style="text-align: justify;">Basicamente, o HTML é a unidade essencial de todas as construções da web. Toda página na internet começou meramente como um documento em HTML, com as tags básicas estruturando e formatando esse documento. 
+<p style="text-align: justify;">"Hipertexto é qualquer texto com um link, um link que leva de um lugar para outro. A web é construída por milhões de textos desse tipo."</p>
+    O hipertexto do nome diz respeito à capacidade de estabelecer uma relação entre páginas, um dos grandes diferenciais da tecnologia quando surgiu. Como aponta o nosso expert César Martins, Desenvolvedor de Novos Produtos na Tera, um hipertexto tem a ver com a noção de link:</P>
+<p>Uma característica importante do hipertexto é que ele é representado por conteúdos multimídia, que são arquivos em formato de texto, imagens, vídeos, ilustrações, áudios e links. Ou seja, a forma como as informações são apresentadas na web.
+
+    Desde que surgiu, o HTML evoluiu por muitos anos até chegar à atual versão 5. Durante essas mudanças, houve alguns problemas com compatibilidade com os sistemas que lidam com arquivos HTML, os navegadores. 
+    
+    Afinal, vários navegadores foram criados e cada um queria impor suas próprias tags e regras para a linguagem. Para lidar com isso, criou-se um comitê para organizar e gerenciar a evolução da tecnologia, o W3C.</p>
+
+
+<h2 id="a">Como utilizar a TAG a</h2>
+<small><a href="#inicio">(voltar)</a></small>
+    <br>
+<p style="text-align: justify;">O elemento //a em HTML (ou elemento âncora), com o atributo href cria-se um hiperligação nas páginas web, arquivos, endereços de emails, ligações na mesma página ou endereços na URL. O conteúdo dentro de cada //a precisará indicar o destino do link. A HTML usa a tag //a (âncora) para criar um vínculo (link) com outro documento. Uma âncora pode apontar para qualquer recurso na Web: uma página em HTML, uma imagem, um arquivo de som, um filme, etc.</p>
+<br>
+
+<h2 id="h1h2">Como utilizar a TAG h1 e h2</h2>
+<small><a href="#inicio">(voltar)</a></small>
+<p style="text-align: justify;">As tags H2 também são importantes para a página e devem ser vinculadas aos subtítulos. Desse modo, uma mesma página pode conter múltiplas H2, as quais possuem um mesmo nível hierárquico dentro de sua estrutura. Assim como as tags H1, o conteúdo de uma H2 não pode ser idêntico aos de outras páginas de seu site. Lembre-se que dividir o seu texto em blocos proporciona uma experiência de leitura muito melhor para o usuário. Faça desdobramentos, a partir do título principal da página, para responder a outras perguntas e se aprofundar em tópicos sobre o assunto. Dessa maneira, você também conseguirá explorar outras palavras-chave de cauda longa e corresponder a pesquisas mais específicas.
+Tomando novamente como exemplo este post, repare que para responder à pergunta do título principal, desdobramos o conteúdo em partes e utilizamos outras perguntas e palavras-chave relevantes nos subtítulos.
+As heading tags são recursos importantíssimos de SEO e UX e, portanto, utilizá-las de forma correta é fundamental para que o seu site conquiste as melhores posições nos resultados de busca e proporcione uma boa experiência aos visitantes.</p>
+<br>
+
+<h2 id="href">Como utilizar a TAG href</h2>
+<small><a href="#inicio">(voltar)</a></small>
+<p style="text-align: justify;">Um hiperlink, também conhecido como link, é um texto, ícone ou imagem clicável que redireciona os usuários para outra página, documento ou uma parte específica desse mesmo conteúdo. Por padrão, os hiperlinks de texto geralmente são azuis ou sublinhados, mas você pode personalizá-los.</p>
+
+
+
+</body>    
+
+
+
+<html>
